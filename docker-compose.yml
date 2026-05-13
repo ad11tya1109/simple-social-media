@@ -1,5 +1,5 @@
 services:
   web:
-    image: ${DOCKER_USER}/AdityaPutra-simple-social-media
+    image: ${DOCKER_USER}/adityaputra-simple-social-media
     ports:
       - "8000:8000"
